@@ -19,20 +19,20 @@ A blogging website that offers a wide range of features to enhance your blogging
 - Jobs Section: Explore job opportunities in the industry with the dedicated jobs section. Users can browse through job listings and apply for positions.
 
 ## Installation
-Clone the repository: git clone https://github.com/Sanghanmol/Blog-Hub.git
-Navigate to the project directory: cd blog hub
-Open the application in your browser
+- Clone the repository: git clone https://github.com/Sanghanmol/Blog-Hub.git
+- Navigate to the project directory: cd blog hub
+- Open the application in your browser
 
 ## Technologies Used
-Frontend Framework: Html, CSS, Javascript, Bootstrap
-Backend Framework: PHP
+- Frontend Framework: Html, CSS, Javascript, Bootstrap
+- Backend Framework: PHP
 
 ## Usage
-Explore the three main segments and browse through the sub-segments of your interest.
-View blog posts in relevant segments.
-Stay updated with the latest news feeds and browse through different categories.
-Access event details and register for upcoming events.
-Explore job listings and apply for suitable positions.
+- Explore the three main segments and browse through the sub-segments of your interest.
+- View blog posts in relevant segments.
+- Stay updated with the latest news feeds and browse through different categories.
+- View the upcoming event details.
+- Explore job listings and apply for suitable positions.
 
 ## License
 This project is licensed under the MIT License.
